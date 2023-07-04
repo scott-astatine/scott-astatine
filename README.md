@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @scott-astatine
-- 🌱 I’m currently learning Mathe
+- 👋 Hi, I’m Scott
+- 🌱 Studying Mathematik
