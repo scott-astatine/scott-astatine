@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Scott
-- 🌱 Studying Mathematik
+- 🌱 Ich Studiere Mathematik und Biologie
