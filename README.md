@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Scott
-- 🌱 Ich Studiere Informatik, Mathematik und Biologie
+- 🌱 I'm learning Data Science & ML at moment
