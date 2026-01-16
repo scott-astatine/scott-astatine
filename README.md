@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Scott
+- 👋 Hi, I’m scott/ayush
 - 🌱 I'm learning Data Science & ML at moment
