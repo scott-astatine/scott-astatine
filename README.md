@@ -1,2 +1,2 @@
 - 👋 Hi, I’m scott/ayush
-- 🌱 I'm learning Data Science & ML at moment
+- 🌱 Learning Cybersecurity & Network Security by messing around with different stuff... and LLMs
