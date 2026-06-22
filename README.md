@@ -1,2 +1,2 @@
-- 👋 Hi, I’m scott/ayush
+- 👋 안녕하세요, 이영수/Ayush입니다.
 - 🌱 Learning Cybersecurity & Network Security by messing around with different stuff... and LLMs
